@@ -106,8 +106,8 @@ let x = Math.exp(3);
 
 let x = Math.cos(3.14);
 
-let num1 = 5 
-let num2 = 5
+
+
 function multiplyNumbers(num1, num2) {
     var result = num1 * num2;
     console.log("The result is: " + result);
